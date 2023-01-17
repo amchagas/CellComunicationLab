@@ -4,7 +4,15 @@
 
 Repository of the 3D bioprinter Low-Cost using a scrap metal from the Laboratory of Cellular Communication, FIOCRUZ - IOC - Brazil
 
+we describe a low-cost open source bioprinter viable for use in research centers with limited resources worldwide. 
 
+All of our designs, code, bill of materials and instructions can be found here.
+
+<br>
+
+![assembled bioprinter](media/assembly/13%20-%20Complete%20view.png)
+
+<br>
 
 ### Bioprinter mechanical specs
 
