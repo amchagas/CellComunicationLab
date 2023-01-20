@@ -14,8 +14,9 @@ All of our designs, code, bill of materials and instructions can be found here.
 
 
 <br>
+<br>
 
-![assembled bioprinter](media/assembly/legend/13%20-%20Complete%20view.png)
+![assembled bioprinter](media/assembly/clean/lateral_view.png)
 
 <br>
 
