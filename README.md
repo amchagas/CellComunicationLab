@@ -10,7 +10,13 @@ All of our designs, code, bill of materials and instructions can be found here.
 
 <br>
 
-![assembled bioprinter](media/assembly/13%20-%20Complete%20view.png)
+![printer rendering](media/printer_rendering.gif)
+
+
+<br>
+<br>
+
+![assembled bioprinter](media/assembly/clean/lateral_view.png)
 
 <br>
 
